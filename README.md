@@ -68,6 +68,7 @@ just some lines of codes with logic
 | [0039-combination-sum](https://github.com/saturn-16/DSA-C-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/saturn-16/DSA-C-/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/saturn-16/DSA-C-/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/saturn-16/DSA-C-/tree/master/0045-jump-game-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,10 +95,12 @@ just some lines of codes with logic
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saturn-16/DSA-C-/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/saturn-16/DSA-C-/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/saturn-16/DSA-C-/tree/master/0045-jump-game-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/saturn-16/DSA-C-/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/saturn-16/DSA-C-/tree/master/0045-jump-game-ii) |
 ## Trie
 |  |
 | ------- |

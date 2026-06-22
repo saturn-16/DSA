@@ -34,6 +34,7 @@ just some lines of codes with logic
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saturn-16/DSA-C-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/saturn-16/DSA-C-/tree/master/0011-container-with-most-water) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,8 +47,13 @@ just some lines of codes with logic
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saturn-16/DSA-C-/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/saturn-16/DSA-C-/tree/master/0011-container-with-most-water) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saturn-16/DSA-C-/tree/master/0005-longest-palindromic-substring) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/saturn-16/DSA-C-/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

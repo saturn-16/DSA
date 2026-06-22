@@ -55,6 +55,7 @@ just some lines of codes with logic
 | [0014-longest-common-prefix](https://github.com/saturn-16/DSA-C-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/saturn-16/DSA-C-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/saturn-16/DSA-C-/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/saturn-16/DSA-C-/tree/master/0031-next-permutation) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,6 +73,7 @@ just some lines of codes with logic
 | [0018-4sum](https://github.com/saturn-16/DSA-C-/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saturn-16/DSA-C-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saturn-16/DSA-C-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/saturn-16/DSA-C-/tree/master/0031-next-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |

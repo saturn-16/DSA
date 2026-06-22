@@ -10,6 +10,7 @@ just some lines of codes with logic
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saturn-16/DSA-C-/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/saturn-16/DSA-C-/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |

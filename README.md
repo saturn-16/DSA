@@ -36,6 +36,7 @@ just some lines of codes with logic
 | [0013-roman-to-integer](https://github.com/saturn-16/DSA-C-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/saturn-16/DSA-C-/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saturn-16/DSA-C-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/saturn-16/DSA-C-/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -85,4 +86,8 @@ just some lines of codes with logic
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saturn-16/DSA-C-/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/saturn-16/DSA-C-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

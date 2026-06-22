@@ -32,6 +32,7 @@ just some lines of codes with logic
 | [0008-string-to-integer-atoi](https://github.com/saturn-16/DSA-C-/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/saturn-16/DSA-C-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saturn-16/DSA-C-/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/saturn-16/DSA-C-/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -41,6 +42,7 @@ just some lines of codes with logic
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saturn-16/DSA-C-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/saturn-16/DSA-C-/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/saturn-16/DSA-C-/tree/master/0014-longest-common-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,4 +64,8 @@ just some lines of codes with logic
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/saturn-16/DSA-C-/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/saturn-16/DSA-C-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

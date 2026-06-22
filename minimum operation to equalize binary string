@@ -1,0 +1,44 @@
+class Solution {
+public:
+    int minOperations(string s, int k) {
+        int n = s.size();
+        int z = 0;
+
+        for (char c : s) {
+            if (c == '0') z++;
+        }
+
+        if (z == 0) return 0;
+
+        if (k == n) {
+            if (z == n) return 1;
+            return -1;
+        }
+
+        long long ans = LLONG_MAX;
+        long long d = n - k;
+
+        if (z % 2 == 0) {
+            long long m1 = (z + 2LL * k - 1) / (2LL * k);
+            long long m2 = (z + 2LL * d - 1) / (2LL * d);
+            ans = min(ans, 2 * m1 > 2 * m2 ? 2 * m1 : 2 * m2);
+        }
+
+        if ((k & 1) == (z & 1)) {
+            long long m1 = 0;
+            if (z > k) {
+                m1 = (z - k + 2LL * k - 1) / (2LL * k);
+            }
+
+            long long m2 = 0;
+            if (k > z) {
+                m2 = (k - z + 2LL * d - 1) / (2LL * d);
+            }
+
+            long long m = max(m1, m2);
+            ans = min(ans, 2 * m + 1);
+        }
+
+        return ans == LLONG_MAX ? -1 : (int)ans;
+    }
+};

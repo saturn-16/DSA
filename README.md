@@ -16,6 +16,7 @@ just some lines of codes with logic
 | [0007-reverse-integer](https://github.com/saturn-16/DSA-C-/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/saturn-16/DSA-C-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saturn-16/DSA-C-/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/saturn-16/DSA-C-/tree/master/0043-multiply-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -46,6 +47,7 @@ just some lines of codes with logic
 | [0022-generate-parentheses](https://github.com/saturn-16/DSA-C-/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saturn-16/DSA-C-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/saturn-16/DSA-C-/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/saturn-16/DSA-C-/tree/master/0043-multiply-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -124,4 +126,8 @@ just some lines of codes with logic
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/saturn-16/DSA-C-/tree/master/0036-valid-sudoku) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/saturn-16/DSA-C-/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->

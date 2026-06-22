@@ -46,6 +46,7 @@ just some lines of codes with logic
 | [0011-container-with-most-water](https://github.com/saturn-16/DSA-C-/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/saturn-16/DSA-C-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/saturn-16/DSA-C-/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/saturn-16/DSA-C-/tree/master/0018-4sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,6 +61,7 @@ just some lines of codes with logic
 | [0005-longest-palindromic-substring](https://github.com/saturn-16/DSA-C-/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/saturn-16/DSA-C-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/saturn-16/DSA-C-/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/saturn-16/DSA-C-/tree/master/0018-4sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,6 +78,7 @@ just some lines of codes with logic
 |  |
 | ------- |
 | [0015-3sum](https://github.com/saturn-16/DSA-C-/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/saturn-16/DSA-C-/tree/master/0018-4sum) |
 ## Backtracking
 |  |
 | ------- |

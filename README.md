@@ -39,6 +39,7 @@ just some lines of codes with logic
 | [0014-longest-common-prefix](https://github.com/saturn-16/DSA-C-/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saturn-16/DSA-C-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/saturn-16/DSA-C-/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/saturn-16/DSA-C-/tree/master/0022-generate-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -71,6 +72,7 @@ just some lines of codes with logic
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saturn-16/DSA-C-/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/saturn-16/DSA-C-/tree/master/0022-generate-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -88,6 +90,7 @@ just some lines of codes with logic
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saturn-16/DSA-C-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/saturn-16/DSA-C-/tree/master/0022-generate-parentheses) |
 ## Stack
 |  |
 | ------- |

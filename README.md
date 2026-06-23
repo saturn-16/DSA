@@ -53,6 +53,7 @@ just some lines of codes with logic
 | [0038-count-and-say](https://github.com/saturn-16/DSA-C-/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/saturn-16/DSA-C-/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/saturn-16/DSA-C-/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/saturn-16/DSA-C-/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
 | ------- |
@@ -84,6 +85,7 @@ just some lines of codes with logic
 | [0074-search-a-2d-matrix](https://github.com/saturn-16/DSA-C-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/saturn-16/DSA-C-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/saturn-16/DSA-C-/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/saturn-16/DSA-C-/tree/master/0079-word-search) |
 ## Binary Search
 |  |
 | ------- |
@@ -143,6 +145,7 @@ just some lines of codes with logic
 | [0046-permutations](https://github.com/saturn-16/DSA-C-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/saturn-16/DSA-C-/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/saturn-16/DSA-C-/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/saturn-16/DSA-C-/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -158,6 +161,7 @@ just some lines of codes with logic
 | [0048-rotate-image](https://github.com/saturn-16/DSA-C-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/saturn-16/DSA-C-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saturn-16/DSA-C-/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/saturn-16/DSA-C-/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -170,4 +174,8 @@ just some lines of codes with logic
 |  |
 | ------- |
 | [0078-subsets](https://github.com/saturn-16/DSA-C-/tree/master/0078-subsets) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/saturn-16/DSA-C-/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->

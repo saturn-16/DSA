@@ -170,6 +170,7 @@ just some lines of codes with logic
 | [0173-binary-search-tree-iterator](https://github.com/saturn-16/DSA-C-/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/saturn-16/DSA-C-/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/saturn-16/DSA-C-/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/saturn-16/DSA-C-/tree/master/0232-implement-queue-using-stacks) |
 ## String Matching
 |  |
 | ------- |
@@ -224,6 +225,7 @@ just some lines of codes with logic
 | [0155-min-stack](https://github.com/saturn-16/DSA-C-/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/saturn-16/DSA-C-/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/saturn-16/DSA-C-/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/saturn-16/DSA-C-/tree/master/0232-implement-queue-using-stacks) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -236,4 +238,5 @@ just some lines of codes with logic
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/saturn-16/DSA-C-/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/saturn-16/DSA-C-/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->

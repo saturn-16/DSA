@@ -164,6 +164,7 @@ just some lines of codes with logic
 | [0144-binary-tree-preorder-traversal](https://github.com/saturn-16/DSA-C-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saturn-16/DSA-C-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saturn-16/DSA-C-/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/saturn-16/DSA-C-/tree/master/0155-min-stack) |
 ## String Matching
 |  |
 | ------- |
@@ -210,4 +211,8 @@ just some lines of codes with logic
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saturn-16/DSA-C-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saturn-16/DSA-C-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saturn-16/DSA-C-/tree/master/0145-binary-tree-postorder-traversal) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/saturn-16/DSA-C-/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

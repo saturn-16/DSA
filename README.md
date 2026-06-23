@@ -166,6 +166,7 @@ just some lines of codes with logic
 | [0150-evaluate-reverse-polish-notation](https://github.com/saturn-16/DSA-C-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/saturn-16/DSA-C-/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/saturn-16/DSA-C-/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/saturn-16/DSA-C-/tree/master/0225-implement-stack-using-queues) |
 ## String Matching
 |  |
 | ------- |
@@ -219,6 +220,7 @@ just some lines of codes with logic
 | ------- |
 | [0155-min-stack](https://github.com/saturn-16/DSA-C-/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/saturn-16/DSA-C-/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/saturn-16/DSA-C-/tree/master/0225-implement-stack-using-queues) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -227,4 +229,8 @@ just some lines of codes with logic
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/saturn-16/DSA-C-/tree/master/0173-binary-search-tree-iterator) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/saturn-16/DSA-C-/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->

@@ -11,6 +11,7 @@ just some lines of codes with logic
 | [0024-swap-nodes-in-pairs](https://github.com/saturn-16/DSA-C-/tree/master/0024-swap-nodes-in-pairs) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saturn-16/DSA-C-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/saturn-16/DSA-C-/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/saturn-16/DSA-C-/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -30,6 +31,7 @@ just some lines of codes with logic
 | [0021-merge-two-sorted-lists](https://github.com/saturn-16/DSA-C-/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/saturn-16/DSA-C-/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/saturn-16/DSA-C-/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/saturn-16/DSA-C-/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +122,7 @@ just some lines of codes with logic
 | [0075-sort-colors](https://github.com/saturn-16/DSA-C-/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saturn-16/DSA-C-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0143-reorder-list](https://github.com/saturn-16/DSA-C-/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/saturn-16/DSA-C-/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -171,6 +174,7 @@ just some lines of codes with logic
 | [0225-implement-stack-using-queues](https://github.com/saturn-16/DSA-C-/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/saturn-16/DSA-C-/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/saturn-16/DSA-C-/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/saturn-16/DSA-C-/tree/master/0234-palindrome-linked-list) |
 ## String Matching
 |  |
 | ------- |

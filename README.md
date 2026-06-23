@@ -82,6 +82,7 @@ just some lines of codes with logic
 | [0066-plus-one](https://github.com/saturn-16/DSA-C-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/saturn-16/DSA-C-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saturn-16/DSA-C-/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/saturn-16/DSA-C-/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,6 +106,7 @@ just some lines of codes with logic
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saturn-16/DSA-C-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saturn-16/DSA-C-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/saturn-16/DSA-C-/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/saturn-16/DSA-C-/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,6 +131,7 @@ just some lines of codes with logic
 | [0018-4sum](https://github.com/saturn-16/DSA-C-/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/saturn-16/DSA-C-/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/saturn-16/DSA-C-/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/saturn-16/DSA-C-/tree/master/0075-sort-colors) |
 ## Backtracking
 |  |
 | ------- |

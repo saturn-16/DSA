@@ -18,6 +18,7 @@ just some lines of codes with logic
 | [0013-roman-to-integer](https://github.com/saturn-16/DSA-C-/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/saturn-16/DSA-C-/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/saturn-16/DSA-C-/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/saturn-16/DSA-C-/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
@@ -77,6 +78,7 @@ just some lines of codes with logic
 | [0047-permutations-ii](https://github.com/saturn-16/DSA-C-/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/saturn-16/DSA-C-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/saturn-16/DSA-C-/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/saturn-16/DSA-C-/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
 | ------- |

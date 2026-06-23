@@ -21,6 +21,7 @@ just some lines of codes with logic
 | [0043-multiply-strings](https://github.com/saturn-16/DSA-C-/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/saturn-16/DSA-C-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/saturn-16/DSA-C-/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/saturn-16/DSA-C-/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Recursion
 |  |
 | ------- |
@@ -90,6 +91,7 @@ just some lines of codes with logic
 | [0078-subsets](https://github.com/saturn-16/DSA-C-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/saturn-16/DSA-C-/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saturn-16/DSA-C-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/saturn-16/DSA-C-/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Binary Search
 |  |
 | ------- |
@@ -161,6 +163,7 @@ just some lines of codes with logic
 | [0143-reorder-list](https://github.com/saturn-16/DSA-C-/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saturn-16/DSA-C-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saturn-16/DSA-C-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/saturn-16/DSA-C-/tree/master/0150-evaluate-reverse-polish-notation) |
 ## String Matching
 |  |
 | ------- |

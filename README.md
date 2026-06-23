@@ -10,6 +10,7 @@ just some lines of codes with logic
 | [0021-merge-two-sorted-lists](https://github.com/saturn-16/DSA-C-/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/saturn-16/DSA-C-/tree/master/0024-swap-nodes-in-pairs) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saturn-16/DSA-C-/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/saturn-16/DSA-C-/tree/master/0143-reorder-list) |
 ## Math
 |  |
 | ------- |
@@ -26,6 +27,7 @@ just some lines of codes with logic
 | [0002-add-two-numbers](https://github.com/saturn-16/DSA-C-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/saturn-16/DSA-C-/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/saturn-16/DSA-C-/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/saturn-16/DSA-C-/tree/master/0143-reorder-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,6 +115,7 @@ just some lines of codes with logic
 | [0031-next-permutation](https://github.com/saturn-16/DSA-C-/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/saturn-16/DSA-C-/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saturn-16/DSA-C-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0143-reorder-list](https://github.com/saturn-16/DSA-C-/tree/master/0143-reorder-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -155,6 +158,7 @@ just some lines of codes with logic
 | [0020-valid-parentheses](https://github.com/saturn-16/DSA-C-/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/saturn-16/DSA-C-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saturn-16/DSA-C-/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/saturn-16/DSA-C-/tree/master/0143-reorder-list) |
 ## String Matching
 |  |
 | ------- |

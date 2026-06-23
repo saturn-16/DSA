@@ -9,6 +9,7 @@ just some lines of codes with logic
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saturn-16/DSA-C-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/saturn-16/DSA-C-/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/saturn-16/DSA-C-/tree/master/0024-swap-nodes-in-pairs) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/saturn-16/DSA-C-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -153,6 +154,7 @@ just some lines of codes with logic
 | ------- |
 | [0020-valid-parentheses](https://github.com/saturn-16/DSA-C-/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/saturn-16/DSA-C-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/saturn-16/DSA-C-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -182,12 +184,15 @@ just some lines of codes with logic
 | ------- |
 | [0079-word-search](https://github.com/saturn-16/DSA-C-/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/saturn-16/DSA-C-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/saturn-16/DSA-C-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/saturn-16/DSA-C-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/saturn-16/DSA-C-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/saturn-16/DSA-C-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/saturn-16/DSA-C-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->

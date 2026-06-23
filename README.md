@@ -105,6 +105,7 @@ just some lines of codes with logic
 | [0005-longest-palindromic-substring](https://github.com/saturn-16/DSA-C-/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/saturn-16/DSA-C-/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/saturn-16/DSA-C-/tree/master/0045-jump-game-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/saturn-16/DSA-C-/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Greedy
 |  |
 | ------- |
@@ -148,4 +149,8 @@ just some lines of codes with logic
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/saturn-16/DSA-C-/tree/master/0043-multiply-strings) |
+## Prefix Sum
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/saturn-16/DSA-C-/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->

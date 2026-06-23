@@ -35,6 +35,7 @@ just some lines of codes with logic
 | [0036-valid-sudoku](https://github.com/saturn-16/DSA-C-/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/saturn-16/DSA-C-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/saturn-16/DSA-C-/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/saturn-16/DSA-C-/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
 | ------- |
@@ -79,6 +80,7 @@ just some lines of codes with logic
 | [0048-rotate-image](https://github.com/saturn-16/DSA-C-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/saturn-16/DSA-C-/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/saturn-16/DSA-C-/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/saturn-16/DSA-C-/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -147,6 +149,7 @@ just some lines of codes with logic
 | ------- |
 | [0036-valid-sudoku](https://github.com/saturn-16/DSA-C-/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/saturn-16/DSA-C-/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/saturn-16/DSA-C-/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |

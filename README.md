@@ -83,6 +83,7 @@ just some lines of codes with logic
 | [0073-set-matrix-zeroes](https://github.com/saturn-16/DSA-C-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saturn-16/DSA-C-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/saturn-16/DSA-C-/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/saturn-16/DSA-C-/tree/master/0078-subsets) |
 ## Binary Search
 |  |
 | ------- |
@@ -141,6 +142,7 @@ just some lines of codes with logic
 | [0040-combination-sum-ii](https://github.com/saturn-16/DSA-C-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/saturn-16/DSA-C-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/saturn-16/DSA-C-/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/saturn-16/DSA-C-/tree/master/0078-subsets) |
 ## Stack
 |  |
 | ------- |
@@ -164,4 +166,8 @@ just some lines of codes with logic
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/saturn-16/DSA-C-/tree/master/3699-number-of-zigzag-arrays-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/saturn-16/DSA-C-/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

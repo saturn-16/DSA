@@ -134,6 +134,7 @@ just some lines of codes with logic
 | [0005-longest-palindromic-substring](https://github.com/saturn-16/DSA-C-/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/saturn-16/DSA-C-/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/saturn-16/DSA-C-/tree/master/0045-jump-game-ii) |
+| [0799-champagne-tower](https://github.com/saturn-16/DSA-C-/tree/master/0799-champagne-tower) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/saturn-16/DSA-C-/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/saturn-16/DSA-C-/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Greedy

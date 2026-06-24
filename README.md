@@ -24,6 +24,7 @@ just some lines of codes with logic
 | [0066-plus-one](https://github.com/saturn-16/DSA-C-/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saturn-16/DSA-C-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/saturn-16/DSA-C-/tree/master/0227-basic-calculator-ii) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/saturn-16/DSA-C-/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -130,6 +131,7 @@ just some lines of codes with logic
 | [0022-generate-parentheses](https://github.com/saturn-16/DSA-C-/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/saturn-16/DSA-C-/tree/master/0045-jump-game-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/saturn-16/DSA-C-/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/saturn-16/DSA-C-/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Greedy
 |  |
 | ------- |

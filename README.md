@@ -45,6 +45,7 @@ just some lines of codes with logic
 | [0041-first-missing-positive](https://github.com/saturn-16/DSA-C-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/saturn-16/DSA-C-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/saturn-16/DSA-C-/tree/master/0073-set-matrix-zeroes) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/saturn-16/DSA-C-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/saturn-16/DSA-C-/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/saturn-16/DSA-C-/tree/master/3714-longest-balanced-substring-ii) |
 ## String
@@ -67,6 +68,7 @@ just some lines of codes with logic
 | [0079-word-search](https://github.com/saturn-16/DSA-C-/tree/master/0079-word-search) |
 | [0227-basic-calculator-ii](https://github.com/saturn-16/DSA-C-/tree/master/0227-basic-calculator-ii) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/saturn-16/DSA-C-/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/saturn-16/DSA-C-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/saturn-16/DSA-C-/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/saturn-16/DSA-C-/tree/master/3714-longest-balanced-substring-ii) |
 ## Sliding Window
@@ -158,6 +160,7 @@ just some lines of codes with logic
 | [0047-permutations-ii](https://github.com/saturn-16/DSA-C-/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/saturn-16/DSA-C-/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/saturn-16/DSA-C-/tree/master/0075-sort-colors) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/saturn-16/DSA-C-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Backtracking
 |  |
 | ------- |

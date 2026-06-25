@@ -110,6 +110,7 @@ just some lines of codes with logic
 | [0150-evaluate-reverse-polish-notation](https://github.com/saturn-16/DSA-C-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/saturn-16/DSA-C-/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/saturn-16/DSA-C-/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/saturn-16/DSA-C-/tree/master/0215-kth-largest-element-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/saturn-16/DSA-C-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/saturn-16/DSA-C-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saturn-16/DSA-C-/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -126,6 +127,7 @@ just some lines of codes with logic
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saturn-16/DSA-C-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/saturn-16/DSA-C-/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/saturn-16/DSA-C-/tree/master/0215-kth-largest-element-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saturn-16/DSA-C-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
@@ -173,6 +175,7 @@ just some lines of codes with logic
 | [0075-sort-colors](https://github.com/saturn-16/DSA-C-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/saturn-16/DSA-C-/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/saturn-16/DSA-C-/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/saturn-16/DSA-C-/tree/master/0215-kth-largest-element-in-an-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/saturn-16/DSA-C-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Backtracking
 |  |
@@ -292,4 +295,12 @@ just some lines of codes with logic
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saturn-16/DSA-C-/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/saturn-16/DSA-C-/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/saturn-16/DSA-C-/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->

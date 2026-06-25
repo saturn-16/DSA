@@ -48,6 +48,7 @@ just some lines of codes with logic
 | [0169-majority-element](https://github.com/saturn-16/DSA-C-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saturn-16/DSA-C-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/saturn-16/DSA-C-/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/saturn-16/DSA-C-/tree/master/0242-valid-anagram) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/saturn-16/DSA-C-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/saturn-16/DSA-C-/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/saturn-16/DSA-C-/tree/master/3714-longest-balanced-substring-ii) |
@@ -72,6 +73,7 @@ just some lines of codes with logic
 | [0079-word-search](https://github.com/saturn-16/DSA-C-/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/saturn-16/DSA-C-/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/saturn-16/DSA-C-/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/saturn-16/DSA-C-/tree/master/0242-valid-anagram) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/saturn-16/DSA-C-/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/saturn-16/DSA-C-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/saturn-16/DSA-C-/tree/master/3713-longest-balanced-substring-i) |
@@ -182,6 +184,7 @@ just some lines of codes with logic
 | [0215-kth-largest-element-in-an-array](https://github.com/saturn-16/DSA-C-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/saturn-16/DSA-C-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/saturn-16/DSA-C-/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/saturn-16/DSA-C-/tree/master/0242-valid-anagram) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/saturn-16/DSA-C-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Backtracking
 |  |

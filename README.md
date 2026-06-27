@@ -14,6 +14,7 @@ just some lines of codes with logic
 | [0141-linked-list-cycle](https://github.com/saturn-16/DSA-C-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saturn-16/DSA-C-/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/saturn-16/DSA-C-/tree/master/0143-reorder-list) |
+| [0147-insertion-sort-list](https://github.com/saturn-16/DSA-C-/tree/master/0147-insertion-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/saturn-16/DSA-C-/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
@@ -191,6 +192,7 @@ just some lines of codes with logic
 | [0047-permutations-ii](https://github.com/saturn-16/DSA-C-/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/saturn-16/DSA-C-/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/saturn-16/DSA-C-/tree/master/0075-sort-colors) |
+| [0147-insertion-sort-list](https://github.com/saturn-16/DSA-C-/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/saturn-16/DSA-C-/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/saturn-16/DSA-C-/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saturn-16/DSA-C-/tree/master/0215-kth-largest-element-in-an-array) |

@@ -11,6 +11,7 @@ just some lines of codes with logic
 | [0024-swap-nodes-in-pairs](https://github.com/saturn-16/DSA-C-/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/saturn-16/DSA-C-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saturn-16/DSA-C-/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0141-linked-list-cycle](https://github.com/saturn-16/DSA-C-/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/saturn-16/DSA-C-/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/saturn-16/DSA-C-/tree/master/0234-palindrome-linked-list) |
 ## Math
@@ -46,6 +47,7 @@ just some lines of codes with logic
 | [0041-first-missing-positive](https://github.com/saturn-16/DSA-C-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/saturn-16/DSA-C-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/saturn-16/DSA-C-/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/saturn-16/DSA-C-/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/saturn-16/DSA-C-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saturn-16/DSA-C-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/saturn-16/DSA-C-/tree/master/0229-majority-element-ii) |
@@ -154,6 +156,7 @@ just some lines of codes with logic
 | [0031-next-permutation](https://github.com/saturn-16/DSA-C-/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/saturn-16/DSA-C-/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saturn-16/DSA-C-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0141-linked-list-cycle](https://github.com/saturn-16/DSA-C-/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/saturn-16/DSA-C-/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/saturn-16/DSA-C-/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming

@@ -22,6 +22,7 @@ just some lines of codes with logic
 | [0234-palindrome-linked-list](https://github.com/saturn-16/DSA-C-/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/saturn-16/DSA-C-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/saturn-16/DSA-C-/tree/master/0328-odd-even-linked-list) |
+| [0355-design-twitter](https://github.com/saturn-16/DSA-C-/tree/master/0355-design-twitter) |
 ## Math
 |  |
 | ------- |
@@ -64,6 +65,7 @@ just some lines of codes with logic
 | [0217-contains-duplicate](https://github.com/saturn-16/DSA-C-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/saturn-16/DSA-C-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/saturn-16/DSA-C-/tree/master/0242-valid-anagram) |
+| [0355-design-twitter](https://github.com/saturn-16/DSA-C-/tree/master/0355-design-twitter) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/saturn-16/DSA-C-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/saturn-16/DSA-C-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3713-longest-balanced-substring-i](https://github.com/saturn-16/DSA-C-/tree/master/3713-longest-balanced-substring-i) |
@@ -301,6 +303,7 @@ just some lines of codes with logic
 | [0173-binary-search-tree-iterator](https://github.com/saturn-16/DSA-C-/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/saturn-16/DSA-C-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/saturn-16/DSA-C-/tree/master/0232-implement-queue-using-stacks) |
+| [0355-design-twitter](https://github.com/saturn-16/DSA-C-/tree/master/0355-design-twitter) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -341,6 +344,7 @@ just some lines of codes with logic
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/saturn-16/DSA-C-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0355-design-twitter](https://github.com/saturn-16/DSA-C-/tree/master/0355-design-twitter) |
 ## Quickselect
 |  |
 | ------- |

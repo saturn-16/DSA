@@ -91,6 +91,7 @@ just some lines of codes with logic
 | [0038-count-and-say](https://github.com/saturn-16/DSA-C-/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/saturn-16/DSA-C-/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/saturn-16/DSA-C-/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/saturn-16/DSA-C-/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/saturn-16/DSA-C-/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/saturn-16/DSA-C-/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/saturn-16/DSA-C-/tree/master/0227-basic-calculator-ii) |
@@ -237,6 +238,7 @@ just some lines of codes with logic
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saturn-16/DSA-C-/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/saturn-16/DSA-C-/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/saturn-16/DSA-C-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saturn-16/DSA-C-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/saturn-16/DSA-C-/tree/master/0143-reorder-list) |

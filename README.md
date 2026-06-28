@@ -37,6 +37,7 @@ just some lines of codes with logic
 | [0066-plus-one](https://github.com/saturn-16/DSA-C-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/saturn-16/DSA-C-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/saturn-16/DSA-C-/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/saturn-16/DSA-C-/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saturn-16/DSA-C-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/saturn-16/DSA-C-/tree/master/0227-basic-calculator-ii) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/saturn-16/DSA-C-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -241,6 +242,7 @@ just some lines of codes with logic
 | [0077-combinations](https://github.com/saturn-16/DSA-C-/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/saturn-16/DSA-C-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/saturn-16/DSA-C-/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/saturn-16/DSA-C-/tree/master/0089-gray-code) |
 ## Stack
 |  |
 | ------- |
@@ -288,6 +290,7 @@ just some lines of codes with logic
 |  |
 | ------- |
 | [0078-subsets](https://github.com/saturn-16/DSA-C-/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/saturn-16/DSA-C-/tree/master/0089-gray-code) |
 ## Depth-First Search
 |  |
 | ------- |

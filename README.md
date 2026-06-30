@@ -147,6 +147,7 @@ just some lines of codes with logic
 | [0215-kth-largest-element-in-an-array](https://github.com/saturn-16/DSA-C-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/saturn-16/DSA-C-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/saturn-16/DSA-C-/tree/master/0229-majority-element-ii) |
+| [1732-find-the-highest-altitude](https://github.com/saturn-16/DSA-C-/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/saturn-16/DSA-C-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/saturn-16/DSA-C-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/saturn-16/DSA-C-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -287,6 +288,7 @@ just some lines of codes with logic
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/saturn-16/DSA-C-/tree/master/1732-find-the-highest-altitude) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/saturn-16/DSA-C-/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/saturn-16/DSA-C-/tree/master/3714-longest-balanced-substring-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saturn-16/DSA-C-/tree/master/3737-count-subarrays-with-majority-element-i) |

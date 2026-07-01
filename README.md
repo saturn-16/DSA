@@ -150,6 +150,7 @@ just some lines of codes with logic
 | [1732-find-the-highest-altitude](https://github.com/saturn-16/DSA-C-/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/saturn-16/DSA-C-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/saturn-16/DSA-C-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/saturn-16/DSA-C-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/saturn-16/DSA-C-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/saturn-16/DSA-C-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/saturn-16/DSA-C-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -164,6 +165,7 @@ just some lines of codes with logic
 | [0035-search-insert-position](https://github.com/saturn-16/DSA-C-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/saturn-16/DSA-C-/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/saturn-16/DSA-C-/tree/master/0074-search-a-2d-matrix) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/saturn-16/DSA-C-/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -278,6 +280,7 @@ just some lines of codes with logic
 | [0073-set-matrix-zeroes](https://github.com/saturn-16/DSA-C-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saturn-16/DSA-C-/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/saturn-16/DSA-C-/tree/master/0079-word-search) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/saturn-16/DSA-C-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/saturn-16/DSA-C-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/saturn-16/DSA-C-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Simulation
@@ -371,6 +374,7 @@ just some lines of codes with logic
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/saturn-16/DSA-C-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0355-design-twitter](https://github.com/saturn-16/DSA-C-/tree/master/0355-design-twitter) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/saturn-16/DSA-C-/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Quickselect
 |  |
 | ------- |
@@ -379,4 +383,12 @@ just some lines of codes with logic
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/saturn-16/DSA-C-/tree/master/0070-climbing-stairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/saturn-16/DSA-C-/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/saturn-16/DSA-C-/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->

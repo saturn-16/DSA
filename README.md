@@ -72,6 +72,7 @@ just some lines of codes with logic
 | [0242-valid-anagram](https://github.com/saturn-16/DSA-C-/tree/master/0242-valid-anagram) |
 | [0355-design-twitter](https://github.com/saturn-16/DSA-C-/tree/master/0355-design-twitter) |
 | [0409-longest-palindrome](https://github.com/saturn-16/DSA-C-/tree/master/0409-longest-palindrome) |
+| [0992-subarrays-with-k-different-integers](https://github.com/saturn-16/DSA-C-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saturn-16/DSA-C-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/saturn-16/DSA-C-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/saturn-16/DSA-C-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -113,6 +114,7 @@ just some lines of codes with logic
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saturn-16/DSA-C-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0992-subarrays-with-k-different-integers](https://github.com/saturn-16/DSA-C-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saturn-16/DSA-C-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/saturn-16/DSA-C-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Array
@@ -150,6 +152,7 @@ just some lines of codes with logic
 | [0215-kth-largest-element-in-an-array](https://github.com/saturn-16/DSA-C-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/saturn-16/DSA-C-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/saturn-16/DSA-C-/tree/master/0229-majority-element-ii) |
+| [0992-subarrays-with-k-different-integers](https://github.com/saturn-16/DSA-C-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/saturn-16/DSA-C-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/saturn-16/DSA-C-/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/saturn-16/DSA-C-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -363,6 +366,7 @@ just some lines of codes with logic
 | ------- |
 | [0169-majority-element](https://github.com/saturn-16/DSA-C-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/saturn-16/DSA-C-/tree/master/0229-majority-element-ii) |
+| [0992-subarrays-with-k-different-integers](https://github.com/saturn-16/DSA-C-/tree/master/0992-subarrays-with-k-different-integers) |
 | [3713-longest-balanced-substring-i](https://github.com/saturn-16/DSA-C-/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saturn-16/DSA-C-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration

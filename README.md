@@ -153,6 +153,7 @@ just some lines of codes with logic
 | [0217-contains-duplicate](https://github.com/saturn-16/DSA-C-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/saturn-16/DSA-C-/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/saturn-16/DSA-C-/tree/master/0992-subarrays-with-k-different-integers) |
+| [1301-number-of-paths-with-max-score](https://github.com/saturn-16/DSA-C-/tree/master/1301-number-of-paths-with-max-score) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/saturn-16/DSA-C-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/saturn-16/DSA-C-/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/saturn-16/DSA-C-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -215,6 +216,7 @@ just some lines of codes with logic
 | [0070-climbing-stairs](https://github.com/saturn-16/DSA-C-/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/saturn-16/DSA-C-/tree/master/0072-edit-distance) |
 | [0799-champagne-tower](https://github.com/saturn-16/DSA-C-/tree/master/0799-champagne-tower) |
+| [1301-number-of-paths-with-max-score](https://github.com/saturn-16/DSA-C-/tree/master/1301-number-of-paths-with-max-score) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/saturn-16/DSA-C-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3620-network-recovery-pathways](https://github.com/saturn-16/DSA-C-/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/saturn-16/DSA-C-/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -292,6 +294,7 @@ just some lines of codes with logic
 | [0073-set-matrix-zeroes](https://github.com/saturn-16/DSA-C-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saturn-16/DSA-C-/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/saturn-16/DSA-C-/tree/master/0079-word-search) |
+| [1301-number-of-paths-with-max-score](https://github.com/saturn-16/DSA-C-/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/saturn-16/DSA-C-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/saturn-16/DSA-C-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/saturn-16/DSA-C-/tree/master/3286-find-a-safe-walk-through-a-grid) |

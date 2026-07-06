@@ -154,6 +154,7 @@ just some lines of codes with logic
 | [0215-kth-largest-element-in-an-array](https://github.com/saturn-16/DSA-C-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/saturn-16/DSA-C-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/saturn-16/DSA-C-/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/saturn-16/DSA-C-/tree/master/0283-move-zeroes) |
 | [0992-subarrays-with-k-different-integers](https://github.com/saturn-16/DSA-C-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1288-remove-covered-intervals](https://github.com/saturn-16/DSA-C-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/saturn-16/DSA-C-/tree/master/1301-number-of-paths-with-max-score) |
@@ -212,6 +213,7 @@ just some lines of codes with logic
 | [0160-intersection-of-two-linked-lists](https://github.com/saturn-16/DSA-C-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/saturn-16/DSA-C-/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/saturn-16/DSA-C-/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/saturn-16/DSA-C-/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |

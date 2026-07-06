@@ -147,6 +147,7 @@ just some lines of codes with logic
 | [0078-subsets](https://github.com/saturn-16/DSA-C-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/saturn-16/DSA-C-/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saturn-16/DSA-C-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0136-single-number](https://github.com/saturn-16/DSA-C-/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saturn-16/DSA-C-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/saturn-16/DSA-C-/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/saturn-16/DSA-C-/tree/master/0179-largest-number) |
@@ -327,6 +328,7 @@ just some lines of codes with logic
 | ------- |
 | [0078-subsets](https://github.com/saturn-16/DSA-C-/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/saturn-16/DSA-C-/tree/master/0089-gray-code) |
+| [0136-single-number](https://github.com/saturn-16/DSA-C-/tree/master/0136-single-number) |
 ## Depth-First Search
 |  |
 | ------- |

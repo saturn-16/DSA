@@ -142,6 +142,7 @@ just some lines of codes with logic
 | [0047-permutations-ii](https://github.com/saturn-16/DSA-C-/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/saturn-16/DSA-C-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/saturn-16/DSA-C-/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/saturn-16/DSA-C-/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/saturn-16/DSA-C-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/saturn-16/DSA-C-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saturn-16/DSA-C-/tree/master/0074-search-a-2d-matrix) |
@@ -190,6 +191,7 @@ just some lines of codes with logic
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saturn-16/DSA-C-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/saturn-16/DSA-C-/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/saturn-16/DSA-C-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/saturn-16/DSA-C-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saturn-16/DSA-C-/tree/master/0215-kth-largest-element-in-an-array) |
@@ -224,6 +226,7 @@ just some lines of codes with logic
 | [0005-longest-palindromic-substring](https://github.com/saturn-16/DSA-C-/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/saturn-16/DSA-C-/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/saturn-16/DSA-C-/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/saturn-16/DSA-C-/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/saturn-16/DSA-C-/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/saturn-16/DSA-C-/tree/master/0072-edit-distance) |
 | [0799-champagne-tower](https://github.com/saturn-16/DSA-C-/tree/master/0799-champagne-tower) |

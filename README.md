@@ -76,6 +76,7 @@ just some lines of codes with logic
 | [0355-design-twitter](https://github.com/saturn-16/DSA-C-/tree/master/0355-design-twitter) |
 | [0409-longest-palindrome](https://github.com/saturn-16/DSA-C-/tree/master/0409-longest-palindrome) |
 | [0992-subarrays-with-k-different-integers](https://github.com/saturn-16/DSA-C-/tree/master/0992-subarrays-with-k-different-integers) |
+| [1331-rank-transform-of-an-array](https://github.com/saturn-16/DSA-C-/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saturn-16/DSA-C-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/saturn-16/DSA-C-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/saturn-16/DSA-C-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -166,6 +167,7 @@ just some lines of codes with logic
 | [0992-subarrays-with-k-different-integers](https://github.com/saturn-16/DSA-C-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1288-remove-covered-intervals](https://github.com/saturn-16/DSA-C-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/saturn-16/DSA-C-/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/saturn-16/DSA-C-/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/saturn-16/DSA-C-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/saturn-16/DSA-C-/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/saturn-16/DSA-C-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -275,6 +277,7 @@ just some lines of codes with logic
 | [0229-majority-element-ii](https://github.com/saturn-16/DSA-C-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/saturn-16/DSA-C-/tree/master/0242-valid-anagram) |
 | [1288-remove-covered-intervals](https://github.com/saturn-16/DSA-C-/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/saturn-16/DSA-C-/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/saturn-16/DSA-C-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/saturn-16/DSA-C-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/saturn-16/DSA-C-/tree/master/3534-path-existence-queries-in-a-graph-ii) |

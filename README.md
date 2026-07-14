@@ -165,6 +165,7 @@ just some lines of codes with logic
 | [0229-majority-element-ii](https://github.com/saturn-16/DSA-C-/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/saturn-16/DSA-C-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/saturn-16/DSA-C-/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/saturn-16/DSA-C-/tree/master/0704-binary-search) |
 | [0992-subarrays-with-k-different-integers](https://github.com/saturn-16/DSA-C-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1288-remove-covered-intervals](https://github.com/saturn-16/DSA-C-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/saturn-16/DSA-C-/tree/master/1301-number-of-paths-with-max-score) |
@@ -194,6 +195,7 @@ just some lines of codes with logic
 | [0035-search-insert-position](https://github.com/saturn-16/DSA-C-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/saturn-16/DSA-C-/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/saturn-16/DSA-C-/tree/master/0074-search-a-2d-matrix) |
+| [0704-binary-search](https://github.com/saturn-16/DSA-C-/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/saturn-16/DSA-C-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/saturn-16/DSA-C-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/saturn-16/DSA-C-/tree/master/3534-path-existence-queries-in-a-graph-ii) |

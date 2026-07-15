@@ -43,6 +43,7 @@ just some lines of codes with logic
 | [0227-basic-calculator-ii](https://github.com/saturn-16/DSA-C-/tree/master/0227-basic-calculator-ii) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/saturn-16/DSA-C-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/saturn-16/DSA-C-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/saturn-16/DSA-C-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/saturn-16/DSA-C-/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/saturn-16/DSA-C-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
@@ -479,4 +480,5 @@ just some lines of codes with logic
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/saturn-16/DSA-C-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/saturn-16/DSA-C-/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->

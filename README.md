@@ -42,6 +42,7 @@ just some lines of codes with logic
 | [0189-rotate-array](https://github.com/saturn-16/DSA-C-/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/saturn-16/DSA-C-/tree/master/0227-basic-calculator-ii) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/saturn-16/DSA-C-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3312-sorted-gcd-pair-queries](https://github.com/saturn-16/DSA-C-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/saturn-16/DSA-C-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saturn-16/DSA-C-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/saturn-16/DSA-C-/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -83,6 +84,7 @@ just some lines of codes with logic
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saturn-16/DSA-C-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/saturn-16/DSA-C-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/saturn-16/DSA-C-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3312-sorted-gcd-pair-queries](https://github.com/saturn-16/DSA-C-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/saturn-16/DSA-C-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3713-longest-balanced-substring-i](https://github.com/saturn-16/DSA-C-/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/saturn-16/DSA-C-/tree/master/3714-longest-balanced-substring-ii) |
@@ -181,6 +183,7 @@ just some lines of codes with logic
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/saturn-16/DSA-C-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/saturn-16/DSA-C-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/saturn-16/DSA-C-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/saturn-16/DSA-C-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/saturn-16/DSA-C-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/saturn-16/DSA-C-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/saturn-16/DSA-C-/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -200,6 +203,7 @@ just some lines of codes with logic
 | [0074-search-a-2d-matrix](https://github.com/saturn-16/DSA-C-/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/saturn-16/DSA-C-/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/saturn-16/DSA-C-/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/saturn-16/DSA-C-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/saturn-16/DSA-C-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/saturn-16/DSA-C-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/saturn-16/DSA-C-/tree/master/3620-network-recovery-pathways) |
@@ -349,6 +353,7 @@ just some lines of codes with logic
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/saturn-16/DSA-C-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/saturn-16/DSA-C-/tree/master/1732-find-the-highest-altitude) |
+| [3312-sorted-gcd-pair-queries](https://github.com/saturn-16/DSA-C-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/saturn-16/DSA-C-/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/saturn-16/DSA-C-/tree/master/3714-longest-balanced-substring-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saturn-16/DSA-C-/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -414,6 +419,7 @@ just some lines of codes with logic
 | [0169-majority-element](https://github.com/saturn-16/DSA-C-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/saturn-16/DSA-C-/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/saturn-16/DSA-C-/tree/master/0992-subarrays-with-k-different-integers) |
+| [3312-sorted-gcd-pair-queries](https://github.com/saturn-16/DSA-C-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3713-longest-balanced-substring-i](https://github.com/saturn-16/DSA-C-/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saturn-16/DSA-C-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
@@ -484,7 +490,12 @@ just some lines of codes with logic
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/saturn-16/DSA-C-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/saturn-16/DSA-C-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saturn-16/DSA-C-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saturn-16/DSA-C-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/saturn-16/DSA-C-/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->

@@ -174,6 +174,7 @@ just some lines of codes with logic
 | [0215-kth-largest-element-in-an-array](https://github.com/saturn-16/DSA-C-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/saturn-16/DSA-C-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/saturn-16/DSA-C-/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/saturn-16/DSA-C-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/saturn-16/DSA-C-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/saturn-16/DSA-C-/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saturn-16/DSA-C-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -217,6 +218,7 @@ just some lines of codes with logic
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saturn-16/DSA-C-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saturn-16/DSA-C-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/saturn-16/DSA-C-/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/saturn-16/DSA-C-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saturn-16/DSA-C-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/saturn-16/DSA-C-/tree/master/0704-binary-search) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/saturn-16/DSA-C-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -233,6 +235,7 @@ just some lines of codes with logic
 | [0148-sort-list](https://github.com/saturn-16/DSA-C-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/saturn-16/DSA-C-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saturn-16/DSA-C-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/saturn-16/DSA-C-/tree/master/0240-search-a-2d-matrix-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saturn-16/DSA-C-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/saturn-16/DSA-C-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -357,6 +360,7 @@ just some lines of codes with logic
 | [0073-set-matrix-zeroes](https://github.com/saturn-16/DSA-C-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saturn-16/DSA-C-/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/saturn-16/DSA-C-/tree/master/0079-word-search) |
+| [0240-search-a-2d-matrix-ii](https://github.com/saturn-16/DSA-C-/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/saturn-16/DSA-C-/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/saturn-16/DSA-C-/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/saturn-16/DSA-C-/tree/master/2812-find-the-safest-path-in-a-grid) |

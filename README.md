@@ -122,6 +122,7 @@ just some lines of codes with logic
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/saturn-16/DSA-C-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/saturn-16/DSA-C-/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/saturn-16/DSA-C-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/saturn-16/DSA-C-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3713-longest-balanced-substring-i](https://github.com/saturn-16/DSA-C-/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/saturn-16/DSA-C-/tree/master/3714-longest-balanced-substring-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/saturn-16/DSA-C-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -317,6 +318,7 @@ just some lines of codes with logic
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saturn-16/DSA-C-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/saturn-16/DSA-C-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/saturn-16/DSA-C-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/saturn-16/DSA-C-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/saturn-16/DSA-C-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saturn-16/DSA-C-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
@@ -535,4 +537,8 @@ just some lines of codes with logic
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/saturn-16/DSA-C-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/saturn-16/DSA-C-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->

@@ -47,6 +47,7 @@ just some lines of codes with logic
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/saturn-16/DSA-C-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/saturn-16/DSA-C-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/saturn-16/DSA-C-/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/saturn-16/DSA-C-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saturn-16/DSA-C-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/saturn-16/DSA-C-/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/saturn-16/DSA-C-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -88,6 +89,7 @@ just some lines of codes with logic
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/saturn-16/DSA-C-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/saturn-16/DSA-C-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/saturn-16/DSA-C-/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/saturn-16/DSA-C-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/saturn-16/DSA-C-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3713-longest-balanced-substring-i](https://github.com/saturn-16/DSA-C-/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/saturn-16/DSA-C-/tree/master/3714-longest-balanced-substring-ii) |
@@ -123,6 +125,7 @@ just some lines of codes with logic
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/saturn-16/DSA-C-/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/saturn-16/DSA-C-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/saturn-16/DSA-C-/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/saturn-16/DSA-C-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/saturn-16/DSA-C-/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/saturn-16/DSA-C-/tree/master/3714-longest-balanced-substring-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/saturn-16/DSA-C-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -452,6 +455,7 @@ just some lines of codes with logic
 | [0229-majority-element-ii](https://github.com/saturn-16/DSA-C-/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/saturn-16/DSA-C-/tree/master/0992-subarrays-with-k-different-integers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/saturn-16/DSA-C-/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/saturn-16/DSA-C-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/saturn-16/DSA-C-/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saturn-16/DSA-C-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
@@ -533,6 +537,7 @@ just some lines of codes with logic
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/saturn-16/DSA-C-/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/saturn-16/DSA-C-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Monotonic Stack
 |  |
 | ------- |

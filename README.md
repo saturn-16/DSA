@@ -41,6 +41,7 @@ just some lines of codes with logic
 | [0150-evaluate-reverse-polish-notation](https://github.com/saturn-16/DSA-C-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/saturn-16/DSA-C-/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/saturn-16/DSA-C-/tree/master/0227-basic-calculator-ii) |
+| [0486-predict-the-winner](https://github.com/saturn-16/DSA-C-/tree/master/0486-predict-the-winner) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saturn-16/DSA-C-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/saturn-16/DSA-C-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saturn-16/DSA-C-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -63,6 +64,7 @@ just some lines of codes with logic
 | [0203-remove-linked-list-elements](https://github.com/saturn-16/DSA-C-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/saturn-16/DSA-C-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/saturn-16/DSA-C-/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/saturn-16/DSA-C-/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -186,6 +188,7 @@ just some lines of codes with logic
 | [0240-search-a-2d-matrix-ii](https://github.com/saturn-16/DSA-C-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/saturn-16/DSA-C-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/saturn-16/DSA-C-/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/saturn-16/DSA-C-/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saturn-16/DSA-C-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/saturn-16/DSA-C-/tree/master/0704-binary-search) |
 | [0992-subarrays-with-k-different-integers](https://github.com/saturn-16/DSA-C-/tree/master/0992-subarrays-with-k-different-integers) |
@@ -282,6 +285,7 @@ just some lines of codes with logic
 | [0053-maximum-subarray](https://github.com/saturn-16/DSA-C-/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/saturn-16/DSA-C-/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/saturn-16/DSA-C-/tree/master/0072-edit-distance) |
+| [0486-predict-the-winner](https://github.com/saturn-16/DSA-C-/tree/master/0486-predict-the-winner) |
 | [0799-champagne-tower](https://github.com/saturn-16/DSA-C-/tree/master/0799-champagne-tower) |
 | [1301-number-of-paths-with-max-score](https://github.com/saturn-16/DSA-C-/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/saturn-16/DSA-C-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -556,4 +560,8 @@ just some lines of codes with logic
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/saturn-16/DSA-C-/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/saturn-16/DSA-C-/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->

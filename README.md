@@ -43,6 +43,7 @@ just some lines of codes with logic
 | [0227-basic-calculator-ii](https://github.com/saturn-16/DSA-C-/tree/master/0227-basic-calculator-ii) |
 | [0486-predict-the-winner](https://github.com/saturn-16/DSA-C-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/saturn-16/DSA-C-/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/saturn-16/DSA-C-/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saturn-16/DSA-C-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/saturn-16/DSA-C-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saturn-16/DSA-C-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -198,6 +199,7 @@ just some lines of codes with logic
 | [1288-remove-covered-intervals](https://github.com/saturn-16/DSA-C-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/saturn-16/DSA-C-/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/saturn-16/DSA-C-/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/saturn-16/DSA-C-/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/saturn-16/DSA-C-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saturn-16/DSA-C-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/saturn-16/DSA-C-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -291,6 +293,7 @@ just some lines of codes with logic
 | [0799-champagne-tower](https://github.com/saturn-16/DSA-C-/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/saturn-16/DSA-C-/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/saturn-16/DSA-C-/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/saturn-16/DSA-C-/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/saturn-16/DSA-C-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/saturn-16/DSA-C-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/saturn-16/DSA-C-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -568,4 +571,13 @@ just some lines of codes with logic
 | ------- |
 | [0486-predict-the-winner](https://github.com/saturn-16/DSA-C-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/saturn-16/DSA-C-/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/saturn-16/DSA-C-/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/saturn-16/DSA-C-/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/saturn-16/DSA-C-/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->

@@ -47,6 +47,7 @@ just some lines of codes with logic
 | [1406-stone-game-iii](https://github.com/saturn-16/DSA-C-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/saturn-16/DSA-C-/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saturn-16/DSA-C-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/saturn-16/DSA-C-/tree/master/2029-stone-game-ix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/saturn-16/DSA-C-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saturn-16/DSA-C-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/saturn-16/DSA-C-/tree/master/3312-sorted-gcd-pair-queries) |
@@ -217,6 +218,7 @@ just some lines of codes with logic
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/saturn-16/DSA-C-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/saturn-16/DSA-C-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saturn-16/DSA-C-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/saturn-16/DSA-C-/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/saturn-16/DSA-C-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/saturn-16/DSA-C-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/saturn-16/DSA-C-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -326,6 +328,7 @@ just some lines of codes with logic
 | [0409-longest-palindrome](https://github.com/saturn-16/DSA-C-/tree/master/0409-longest-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/saturn-16/DSA-C-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/saturn-16/DSA-C-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/saturn-16/DSA-C-/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saturn-16/DSA-C-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saturn-16/DSA-C-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/saturn-16/DSA-C-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -497,6 +500,7 @@ just some lines of codes with logic
 | [0169-majority-element](https://github.com/saturn-16/DSA-C-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/saturn-16/DSA-C-/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/saturn-16/DSA-C-/tree/master/0992-subarrays-with-k-different-integers) |
+| [2029-stone-game-ix](https://github.com/saturn-16/DSA-C-/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saturn-16/DSA-C-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/saturn-16/DSA-C-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/saturn-16/DSA-C-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -600,22 +604,26 @@ just some lines of codes with logic
 | [1140-stone-game-ii](https://github.com/saturn-16/DSA-C-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/saturn-16/DSA-C-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/saturn-16/DSA-C-/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/saturn-16/DSA-C-/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/saturn-16/DSA-C-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/saturn-16/DSA-C-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/saturn-16/DSA-C-/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/saturn-16/DSA-C-/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/saturn-16/DSA-C-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/saturn-16/DSA-C-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/saturn-16/DSA-C-/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/saturn-16/DSA-C-/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/saturn-16/DSA-C-/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/saturn-16/DSA-C-/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |

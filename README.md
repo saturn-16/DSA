@@ -25,6 +25,7 @@ just some lines of codes with logic
 | [0237-delete-node-in-a-linked-list](https://github.com/saturn-16/DSA-C-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/saturn-16/DSA-C-/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/saturn-16/DSA-C-/tree/master/0355-design-twitter) |
+| [0706-design-hashmap](https://github.com/saturn-16/DSA-C-/tree/master/0706-design-hashmap) |
 ## Math
 |  |
 | ------- |
@@ -92,6 +93,7 @@ just some lines of codes with logic
 | [0242-valid-anagram](https://github.com/saturn-16/DSA-C-/tree/master/0242-valid-anagram) |
 | [0355-design-twitter](https://github.com/saturn-16/DSA-C-/tree/master/0355-design-twitter) |
 | [0409-longest-palindrome](https://github.com/saturn-16/DSA-C-/tree/master/0409-longest-palindrome) |
+| [0706-design-hashmap](https://github.com/saturn-16/DSA-C-/tree/master/0706-design-hashmap) |
 | [0992-subarrays-with-k-different-integers](https://github.com/saturn-16/DSA-C-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/saturn-16/DSA-C-/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saturn-16/DSA-C-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -203,6 +205,7 @@ just some lines of codes with logic
 | [0486-predict-the-winner](https://github.com/saturn-16/DSA-C-/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saturn-16/DSA-C-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/saturn-16/DSA-C-/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/saturn-16/DSA-C-/tree/master/0706-design-hashmap) |
 | [0877-stone-game](https://github.com/saturn-16/DSA-C-/tree/master/0877-stone-game) |
 | [0992-subarrays-with-k-different-integers](https://github.com/saturn-16/DSA-C-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1140-stone-game-ii](https://github.com/saturn-16/DSA-C-/tree/master/1140-stone-game-ii) |
@@ -483,6 +486,7 @@ just some lines of codes with logic
 | [0225-implement-stack-using-queues](https://github.com/saturn-16/DSA-C-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/saturn-16/DSA-C-/tree/master/0232-implement-queue-using-stacks) |
 | [0355-design-twitter](https://github.com/saturn-16/DSA-C-/tree/master/0355-design-twitter) |
+| [0706-design-hashmap](https://github.com/saturn-16/DSA-C-/tree/master/0706-design-hashmap) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -634,4 +638,8 @@ just some lines of codes with logic
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/saturn-16/DSA-C-/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/saturn-16/DSA-C-/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->

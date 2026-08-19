@@ -26,6 +26,7 @@ just some lines of codes with logic
 | [0328-odd-even-linked-list](https://github.com/saturn-16/DSA-C-/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/saturn-16/DSA-C-/tree/master/0355-design-twitter) |
 | [0706-design-hashmap](https://github.com/saturn-16/DSA-C-/tree/master/0706-design-hashmap) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saturn-16/DSA-C-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/saturn-16/DSA-C-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
@@ -46,6 +47,7 @@ just some lines of codes with logic
 | [0486-predict-the-winner](https://github.com/saturn-16/DSA-C-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/saturn-16/DSA-C-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/saturn-16/DSA-C-/tree/master/1140-stone-game-ii) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saturn-16/DSA-C-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1406-stone-game-iii](https://github.com/saturn-16/DSA-C-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/saturn-16/DSA-C-/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saturn-16/DSA-C-/tree/master/1979-find-greatest-common-divisor-of-array) |

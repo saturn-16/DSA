@@ -26,6 +26,7 @@ just some lines of codes with logic
 | [0328-odd-even-linked-list](https://github.com/saturn-16/DSA-C-/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/saturn-16/DSA-C-/tree/master/0355-design-twitter) |
 | [0706-design-hashmap](https://github.com/saturn-16/DSA-C-/tree/master/0706-design-hashmap) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/saturn-16/DSA-C-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
 | ------- |
@@ -103,6 +104,7 @@ just some lines of codes with logic
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/saturn-16/DSA-C-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/saturn-16/DSA-C-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/saturn-16/DSA-C-/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/saturn-16/DSA-C-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/saturn-16/DSA-C-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/saturn-16/DSA-C-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3713-longest-balanced-substring-i](https://github.com/saturn-16/DSA-C-/tree/master/3713-longest-balanced-substring-i) |
@@ -233,6 +235,7 @@ just some lines of codes with logic
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/saturn-16/DSA-C-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/saturn-16/DSA-C-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/saturn-16/DSA-C-/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/saturn-16/DSA-C-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/saturn-16/DSA-C-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/saturn-16/DSA-C-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/saturn-16/DSA-C-/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -428,6 +431,7 @@ just some lines of codes with logic
 | [0043-multiply-strings](https://github.com/saturn-16/DSA-C-/tree/master/0043-multiply-strings) |
 | [1260-shift-2d-grid](https://github.com/saturn-16/DSA-C-/tree/master/1260-shift-2d-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/saturn-16/DSA-C-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/saturn-16/DSA-C-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saturn-16/DSA-C-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
@@ -539,6 +543,7 @@ just some lines of codes with logic
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saturn-16/DSA-C-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/saturn-16/DSA-C-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/saturn-16/DSA-C-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/saturn-16/DSA-C-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3620-network-recovery-pathways](https://github.com/saturn-16/DSA-C-/tree/master/3620-network-recovery-pathways) |
 ## Quickselect
 |  |
@@ -638,8 +643,13 @@ just some lines of codes with logic
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/saturn-16/DSA-C-/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/saturn-16/DSA-C-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/saturn-16/DSA-C-/tree/master/0706-design-hashmap) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/saturn-16/DSA-C-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->

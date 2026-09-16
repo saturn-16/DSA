@@ -50,6 +50,7 @@ just some lines of codes with logic
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saturn-16/DSA-C-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1406-stone-game-iii](https://github.com/saturn-16/DSA-C-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/saturn-16/DSA-C-/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/saturn-16/DSA-C-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saturn-16/DSA-C-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/saturn-16/DSA-C-/tree/master/2029-stone-game-ix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/saturn-16/DSA-C-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -332,6 +333,7 @@ just some lines of codes with logic
 | [1301-number-of-paths-with-max-score](https://github.com/saturn-16/DSA-C-/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/saturn-16/DSA-C-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/saturn-16/DSA-C-/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/saturn-16/DSA-C-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/saturn-16/DSA-C-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/saturn-16/DSA-C-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/saturn-16/DSA-C-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -455,6 +457,7 @@ just some lines of codes with logic
 | [0238-product-of-array-except-self](https://github.com/saturn-16/DSA-C-/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/saturn-16/DSA-C-/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/saturn-16/DSA-C-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/saturn-16/DSA-C-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/saturn-16/DSA-C-/tree/master/1732-find-the-highest-altitude) |
 | [3312-sorted-gcd-pair-queries](https://github.com/saturn-16/DSA-C-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/saturn-16/DSA-C-/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -617,6 +620,7 @@ just some lines of codes with logic
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/saturn-16/DSA-C-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/saturn-16/DSA-C-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/saturn-16/DSA-C-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/saturn-16/DSA-C-/tree/master/3518-smallest-palindromic-rearrangement-ii) |

@@ -104,6 +104,7 @@ just some lines of codes with logic
 | [0992-subarrays-with-k-different-integers](https://github.com/saturn-16/DSA-C-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/saturn-16/DSA-C-/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saturn-16/DSA-C-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2615-sum-of-distances](https://github.com/saturn-16/DSA-C-/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/saturn-16/DSA-C-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saturn-16/DSA-C-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saturn-16/DSA-C-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -234,6 +235,7 @@ just some lines of codes with logic
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saturn-16/DSA-C-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/saturn-16/DSA-C-/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/saturn-16/DSA-C-/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2615-sum-of-distances](https://github.com/saturn-16/DSA-C-/tree/master/2615-sum-of-distances) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/saturn-16/DSA-C-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/saturn-16/DSA-C-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saturn-16/DSA-C-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -460,6 +462,7 @@ just some lines of codes with logic
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/saturn-16/DSA-C-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/saturn-16/DSA-C-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/saturn-16/DSA-C-/tree/master/1732-find-the-highest-altitude) |
+| [2615-sum-of-distances](https://github.com/saturn-16/DSA-C-/tree/master/2615-sum-of-distances) |
 | [3312-sorted-gcd-pair-queries](https://github.com/saturn-16/DSA-C-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/saturn-16/DSA-C-/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/saturn-16/DSA-C-/tree/master/3714-longest-balanced-substring-ii) |

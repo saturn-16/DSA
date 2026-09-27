@@ -147,6 +147,7 @@ just some lines of codes with logic
 | [0409-longest-palindrome](https://github.com/saturn-16/DSA-C-/tree/master/0409-longest-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/saturn-16/DSA-C-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/saturn-16/DSA-C-/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/saturn-16/DSA-C-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saturn-16/DSA-C-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/saturn-16/DSA-C-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/saturn-16/DSA-C-/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -430,6 +431,7 @@ just some lines of codes with logic
 | [0234-palindrome-linked-list](https://github.com/saturn-16/DSA-C-/tree/master/0234-palindrome-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/saturn-16/DSA-C-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/saturn-16/DSA-C-/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/saturn-16/DSA-C-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## String Matching
 |  |
 | ------- |
@@ -691,4 +693,8 @@ just some lines of codes with logic
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/saturn-16/DSA-C-/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/saturn-16/DSA-C-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
